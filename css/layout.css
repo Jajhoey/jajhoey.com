@@ -440,7 +440,9 @@ ul#nav li.current a { color: #F06000; }
 .portfolio-item .item-wrap a {
    cursor: pointer;
 }
-
+.portfolio-item .item-wrap img {
+  height: 200px;
+}
 /* overlay */
 .portfolio-item .item-wrap .overlay {
    position: absolute;
